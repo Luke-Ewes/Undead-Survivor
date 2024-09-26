@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 775350778f34d7540a0db5ce09691bf1, type: 3}
+  m_Name: ShockWave
+  m_EditorClassIdentifier: 
+  Type: 0
+  Sprite: {fileID: 1973341065, guid: 319a360192b61a3479da655ee683b0e5, type: 3}
+  dropped: 0
+  Weapon: {fileID: 11400000, guid: 3da798918b5309846acc5b553f6464b5, type: 2}

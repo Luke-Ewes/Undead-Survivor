@@ -1,0 +1,3489 @@
+fileFormatVersion: 2
+guid: f64009a43fee3e942966a3d4498f2285
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 716
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091c69921ceddf144a874d214ef825b6
+      internalID: 1752721985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 716
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877f966fe3dc2ba48b3ca829f5a405d4
+      internalID: 1012316161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 716
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -5, y: 13}
+        - {x: -6, y: 12}
+        - {x: -6, y: -13}
+        - {x: 6, y: -13}
+        - {x: 6, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b472f1369e28bae45b54c75883b244b4
+      internalID: -879624793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 716
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab19bad7f85cfb041aabe4af00a222cd
+      internalID: 1701230744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_4
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 717
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff79f8f12d85aee4e8829d0757847420
+      internalID: -391579342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_5
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 716
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ba2611047ec394791e657cf14c3ce2
+      internalID: 1262705911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_6
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 716
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db45046549025f143b893b12fc689c8d
+      internalID: 1708709277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_7
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 716
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0ea79cc8318374eaa12c93875d0892
+      internalID: -1436335614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_8
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 716
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af79664c0ca20f048b0de8abc29a6be6
+      internalID: -2073723418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_9
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 717
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1656f1d93d14c4d40963897dce930ffb
+      internalID: 947389522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_10
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 716
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d858b34c866580548ace541dbaf27773
+      internalID: 2094355594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_11
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 685
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e97aaf04505edc4492a0671adbc8f8b
+      internalID: 332834498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_12
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 684
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eba0e3aa8ca3d742980d2c8e688dfdd
+      internalID: -2086216285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 684
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241d6ca1612fb1444b1ccd317c221383
+      internalID: -138683761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_14
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 685
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c2969956ecb5647959d058a5ff6317
+      internalID: 2089828404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_15
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 685
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334269e61f4b9d84ca32d3a0c9f6df3a
+      internalID: -377696122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_16
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 687
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d854f58dac6d56149996aaaf49b1ec6f
+      internalID: -1140832750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_17
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 684
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5eff95e6585fd4491c076b93c3e982
+      internalID: -1919334958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_18
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 685
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b805e4b56beb64b95478d4e522d51d
+      internalID: 738727292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_19
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 684
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0dad78f89d48154a87029c8df113305
+      internalID: 1218831621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_20
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 687
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f370c3283d4a24a438e8817865f9abfd
+      internalID: -1934299951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_21
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 685
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60eb00c053e3f241a7f683697df293e
+      internalID: 1598958336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_22
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 644
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8dd905bbabe850429c0ebf9d438d59e
+      internalID: -940217322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_23
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 644
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dffb4d41a65a114d957856b3a07ecf5
+      internalID: 834522110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_24
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 644
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f08d3eda0a7b34cb1594ae206a92c4
+      internalID: -1005929592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_25
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 644
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35498f268b317e47a4ec12e3f68e3c1
+      internalID: 709287188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_26
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 645
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e120e2e77b15f79489aadb9821bccc03
+      internalID: -1553611341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_27
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 647
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835bf248806d11748be07b793094aa02
+      internalID: 227054091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_28
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 644
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c091409ae7e890d43b231d7326f5e9d9
+      internalID: 837520343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_29
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 645
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7de16d5c0702b9479acdfa3ba1d4590
+      internalID: 2062496090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_30
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 644
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca4064f15dfebd41afce4b50e5d49f1
+      internalID: 1639926334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_31
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 647
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20379ee83c70154889cc9dd530ad7ec
+      internalID: -1701578492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_32
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 645
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4294ee8c1f70048b1bc3ee237a7b6c
+      internalID: -829031940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_33
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 604
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4018e3f9cf00ec3438ed09a607e3185d
+      internalID: 1116233311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_34
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 604
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e358f10a542eb1468408efb6721a178
+      internalID: 1049223436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_35
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 604
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a1e22a0b9b3f440b5a61b93b4dac01
+      internalID: -1366904137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_36
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 604
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5a9887502e87940b8c032dcd712873
+      internalID: 493306129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_37
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 604
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7c4d758fe380541951b2c9170598b9
+      internalID: 1090380291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_38
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 604
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6853032822b8dd444bad66958f888dcf
+      internalID: -1983130288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_39
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 606
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef4213219cf21b459f016c3d6a5366a
+      internalID: -345193602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_40
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 605
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cd6598504d4a94983ee4cd319ac4d1
+      internalID: -1101993423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_41
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 605
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765540fe48ef229458bb22a2b380037f
+      internalID: -1924102267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_42
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 606
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d792a25203305be43bf9be088b6dc96f
+      internalID: 696029974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_43
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 604
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a9af167352c644f9314ba74679bf4d
+      internalID: -1305383873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_44
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 604
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eee865bd6de9b04e862b5964c33e4d6
+      internalID: -1087234907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 561
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697a46d05f1221c4e8f33549fcf2055d
+      internalID: -1356007006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_46
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 556
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f29bc1b04c38bc4f946759d4f3b9048
+      internalID: -1345078318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_47
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 556
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1220168c0cdac0c4ab1e31527b3d2136
+      internalID: 458520224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_48
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 561
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7af14f0fbe1acf478fe76bea39771e1
+      internalID: -1730173332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_49
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 556
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058b00e6b4c72bd47861438cc9bdca7d
+      internalID: -1491252956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_50
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 556
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69dfa056d2b57994fb4f777818fe3774
+      internalID: -1850877303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_51
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 556
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12519b4d8e0842a4aaf9ee3a1bd437ef
+      internalID: -728991458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_52
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 556
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ef6f48afc2ce747a69e75d45ab19b6
+      internalID: 1959507405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_53
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 556
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec87444964c43a34f8e984b8741687e2
+      internalID: 95106868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_54
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 556
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91eff1bada2ae504e940f9c98bfb7511
+      internalID: 868359526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_55
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 516
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0bb298b3fb0754083f8c5f77f411eb
+      internalID: 1808707719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_56
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 516
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f81a009d53e7394c951726421549558
+      internalID: 2111160286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_57
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 516
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6472dfbb2c7784faaa1e3e8036854f
+      internalID: 459726498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_58
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 516
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6e72856abdea64eb0b900e43e2497f
+      internalID: -1215635133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_59
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 524
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185046f18741f45458788e362b2f6dde
+      internalID: -1304920618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_60
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 525
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d23de3b2d74914881e49db5689d097
+      internalID: 1404020824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_61
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 524
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edc085d89a348d419dbc8b2f7feaa58
+      internalID: -181264228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_62
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 524
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e213ff12ed7aa343a54bc16d7d3ffac
+      internalID: 949613449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_63
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 525
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818bc19ee7da6a94b8f54e38301cbaf5
+      internalID: -1226698814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_64
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 524
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba9ae8dcb20f04408bd3fcb8ba53f11
+      internalID: -1456211002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 486
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd83b13841008b4980017661acddbeb
+      internalID: 378786858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_66
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 484
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43707eb2e2508ff49b17b5d4f36dd905
+      internalID: 1524600000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_67
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 489
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba14b2096fc28e4d848fd45d54d5054
+      internalID: -2077025591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_68
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 484
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf81b9e0ec9a6f47a734ff9c8dd6943
+      internalID: 1543943882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_69
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 476
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6368073d5bc4e48a044d56f5b9dcfa
+      internalID: 791289045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_70
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 477
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027a5759fe4e6db41a5278f30d82da74
+      internalID: -1116625046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_71
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 477
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee8a407e78f08e4eb3a5112d3698bde
+      internalID: -501271238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_72
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 476
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5808e2d429fe272428a4e8b2286280a6
+      internalID: 571906099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_73
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 484
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265e59d3113e06e4d88e175321e949a9
+      internalID: -1858765976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_74
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 489
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9829fde6ee4acb84580ca6cdeb875c0d
+      internalID: -1658448724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_75
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 484
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7999fc1642ffc2741b76f313eef524ff
+      internalID: 1432184996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_76
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 486
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab26559114574c948a7072151d80859d
+      internalID: -1966108190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 446
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534579b19e4a8c8498469580f2a97b1e
+      internalID: 701866258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_78
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 444
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3decab6db288f5c49b2354cead5bf7f4
+      internalID: -1731308149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_79
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 449
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a7161fb260e2045856ac06b8925d10
+      internalID: 418623384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_80
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 444
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a459dcaf76daa4a8d6e02db5c4c78f
+      internalID: 469422126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_81
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 436
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca19526f66e052649a5c179a08bbcc34
+      internalID: -1693343617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_82
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 437
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7f6f3b118d70a41b77a040a592b0e4
+      internalID: -1052212242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_83
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 437
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa3c92513c060148a46334f0a23c0b1
+      internalID: -1577573420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_84
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 436
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d8d0c7a2fb33245a0eb4df7c33ccf5
+      internalID: 2093975230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_85
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 444
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caef00e0f5ee68a4698e4b3972d636da
+      internalID: -261424134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_86
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 449
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45e3f8645c982445a29a345de393583
+      internalID: 2074089092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_87
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 444
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4689604e8db3e0e41897fbf035d4265e
+      internalID: 2093802218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_88
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 446
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c67947c0b23a44abf22e407380e671
+      internalID: -1516947852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_89
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 405
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44467cead12a436428d2fe68574a20e6
+      internalID: 837114526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_90
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 404
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c521ec3ecee07647b929618b3dedcf2
+      internalID: -1312792555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_91
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 405
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ca1d9e3ac58c2469d668f4e6f1ab90
+      internalID: -1089685698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_92
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 406
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde84e27270f1d54887e8ee07292b9cc
+      internalID: 1983050154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_93
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 406
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebcbaaa62ee4414b919a40cfac66665
+      internalID: 1639859541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_94
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 405
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f69bb09c90573c4abdf16df92d8ec90
+      internalID: 1837613927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_95
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 404
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c61d97dda4dda4585cadf67bb2f832
+      internalID: 640109141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_96
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 405
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc83011d2b3a0ce4aaf472413e8e740b
+      internalID: 101262418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_97
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 361
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d35f9f853346aa4482eb73a2f3af05f
+      internalID: -993953548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_98
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 361
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e913d251cbd9f4e94661c6918b654b
+      internalID: -1376596056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_99
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 364
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2e7f9872452dc49ad608470c2ae5e4
+      internalID: -2035100737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_100
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 377
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3ec0ad59f79994fa9b84a61a568e27
+      internalID: 1446553780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_101
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 377
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaec3f2bae95e4d47a8f91324540d860
+      internalID: -1568992745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_102
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 356
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5ad52c10856a94bb17258aad189221
+      internalID: -642043781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_103
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 356
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ed91b49700e5c4d895ad57948c4a39
+      internalID: 505344985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_104
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 356
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72a24faa76e7ee48a9f2d8a80d2709e
+      internalID: -1260971000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_105
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 356
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10f4fd4aa45830448240ccd6d32d6ee
+      internalID: -1990331762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_106
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 377
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eca2ed66d135ef46b435d665f481490
+      internalID: -504778944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_107
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 377
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970912d4f47219f44bfacdfda9fac6d6
+      internalID: 1006360004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_108
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 358
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a0e1f5f77e21d4ba3b11033e6640ee
+      internalID: -1150352582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_109
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 358
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc8c76ecdb1b884ebbc64b4cf1ea525
+      internalID: -1009349334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_110
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 358
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896892e9a12f2b14a9f2229a85cee05d
+      internalID: -277252744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_111
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 358
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899823f461a004142b3334a0c5781508
+      internalID: 127909960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_112
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 338
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af5e39f5961e0442a22c3d95b459774
+      internalID: 1938215446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_113
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 313
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d24e2b1efe159c4da3895de388692e0
+      internalID: -2019741195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_114
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 313
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b486e3be20c7244ad437120a5f41c7
+      internalID: -283857837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_115
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 312
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4fed2cad6996749b5b686d74556bba
+      internalID: 1280257742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_116
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 312
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767cca168eacab143ae1009e095b7230
+      internalID: 1163083924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_117
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 313
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74e76a68524c70448775e9d40c376ba
+      internalID: 1194903863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_118
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 313
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8486dd4a81992fd4a8973d6dc5c6e63b
+      internalID: -1413890962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_119
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 338
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ee8bb944d6892418b7b4633d408cd9
+      internalID: 675663582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_120
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 318
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a020a7f7ef5c24a836b8a2fd9e3ef4
+      internalID: 2040204134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_121
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 318
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487e4b4d547eb454290c2c7915fdf5c7
+      internalID: -281475406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_122
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 249
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f9300edf196284db7905adaf6929ec
+      internalID: -2064322150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_123
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 248
+        width: 14
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2412c22dc63d3ed44bbf454a7eb99013
+      internalID: 1180290149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_124
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 249
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b17bad495a78a4db51ccd7e52a4c4c
+      internalID: -858401908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_125
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 249
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bde07ded508e849ab21729d55e42b3
+      internalID: 1410039210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_126
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 248
+        width: 14
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9910121e59716b4eb7b0fd46b4a10ed
+      internalID: -896266312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_127
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 249
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae946e0fb59250458ba5777ad84eb7c
+      internalID: -1366073027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_128
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aef964d10535c841b2458ea974674ee
+      internalID: -1019333491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_129
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 248
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c92285204691f438ce1ff1f868cbce
+      internalID: -1623288057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_130
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 248
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42894f0f4d362f40b5234269d8ae109
+      internalID: -229966072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_131
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a13d5e6138ed54a9e9ae2de8c7b329
+      internalID: 1674591017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_132
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 254
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81807af9aa82d6a44b3311bb9def9ea2
+      internalID: 1059419807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_133
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 254
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831bc79ca70965f46aeea0907fe85330
+      internalID: 1762657051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_134
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 185
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6103cb3ff50e0b74abfda7440a26ec52
+      internalID: -40298709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_135
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 168
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab513f011b014442ae64174a093f17d
+      internalID: -280915364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_136
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 168
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff0ede167e210a4bb7f6a1b6deaa0f1
+      internalID: 354653981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_137
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 168
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125fde26b50999a4baea84d082023b1e
+      internalID: -542095367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_138
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 168
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a079b195c466a854c90e9cedb5e12a9d
+      internalID: -169384007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_139
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 168
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60b9151d3dceaf489bd897c6b4564dc
+      internalID: -1102762180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_140
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 168
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5afff3137ff9ff4e837c35a247d8aa9
+      internalID: -1597289019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_141
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 168
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323b29da1d06a0347983c2bcc05d3826
+      internalID: 196859897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_142
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 168
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef5682e68494234ab3ab3b128d996e5
+      internalID: -102373815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_143
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 185
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64b7518104f06a41a3e112cccb71c02
+      internalID: -1434973433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_144
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 72
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fe580588b221943b64d170b16fc1dc
+      internalID: 316276190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_145
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 80
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720292484dfeec24985c088ca7113424
+      internalID: 1736073368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_146
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 80
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4e4faadedeafc4d8ad56e26a02e1bb
+      internalID: 1437269256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_147
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 72
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572eaa9995005ea4486637156bfaa9dd
+      internalID: -539075670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_148
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de364e7a4febcb6409d4eb38d8b843b7
+      internalID: -1904685384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_149
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36c8b94cecbf134da3bbf6abe633d59
+      internalID: -2053597182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_150
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af93b1ecc1e84a5439300c858cc1e4b9
+      internalID: 1491623881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CastlevaniaEnemies_151
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 0
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbc5966e4a414341a70e226a669ca4a
+      internalID: -933139435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CastlevaniaEnemies_0: 1752721985
+      CastlevaniaEnemies_1: 1012316161
+      CastlevaniaEnemies_10: 2094355594
+      CastlevaniaEnemies_100: 1446553780
+      CastlevaniaEnemies_101: -1568992745
+      CastlevaniaEnemies_102: -642043781
+      CastlevaniaEnemies_103: 505344985
+      CastlevaniaEnemies_104: -1260971000
+      CastlevaniaEnemies_105: -1990331762
+      CastlevaniaEnemies_106: -504778944
+      CastlevaniaEnemies_107: 1006360004
+      CastlevaniaEnemies_108: -1150352582
+      CastlevaniaEnemies_109: -1009349334
+      CastlevaniaEnemies_11: 332834498
+      CastlevaniaEnemies_110: -277252744
+      CastlevaniaEnemies_111: 127909960
+      CastlevaniaEnemies_112: 1938215446
+      CastlevaniaEnemies_113: -2019741195
+      CastlevaniaEnemies_114: -283857837
+      CastlevaniaEnemies_115: 1280257742
+      CastlevaniaEnemies_116: 1163083924
+      CastlevaniaEnemies_117: 1194903863
+      CastlevaniaEnemies_118: -1413890962
+      CastlevaniaEnemies_119: 675663582
+      CastlevaniaEnemies_12: -2086216285
+      CastlevaniaEnemies_120: 2040204134
+      CastlevaniaEnemies_121: -281475406
+      CastlevaniaEnemies_122: -2064322150
+      CastlevaniaEnemies_123: 1180290149
+      CastlevaniaEnemies_124: -858401908
+      CastlevaniaEnemies_125: 1410039210
+      CastlevaniaEnemies_126: -896266312
+      CastlevaniaEnemies_127: -1366073027
+      CastlevaniaEnemies_128: -1019333491
+      CastlevaniaEnemies_129: -1623288057
+      CastlevaniaEnemies_13: -138683761
+      CastlevaniaEnemies_130: -229966072
+      CastlevaniaEnemies_131: 1674591017
+      CastlevaniaEnemies_132: 1059419807
+      CastlevaniaEnemies_133: 1762657051
+      CastlevaniaEnemies_134: -40298709
+      CastlevaniaEnemies_135: -280915364
+      CastlevaniaEnemies_136: 354653981
+      CastlevaniaEnemies_137: -542095367
+      CastlevaniaEnemies_138: -169384007
+      CastlevaniaEnemies_139: -1102762180
+      CastlevaniaEnemies_14: 2089828404
+      CastlevaniaEnemies_140: -1597289019
+      CastlevaniaEnemies_141: 196859897
+      CastlevaniaEnemies_142: -102373815
+      CastlevaniaEnemies_143: -1434973433
+      CastlevaniaEnemies_144: 316276190
+      CastlevaniaEnemies_145: 1736073368
+      CastlevaniaEnemies_146: 1437269256
+      CastlevaniaEnemies_147: -539075670
+      CastlevaniaEnemies_148: -1904685384
+      CastlevaniaEnemies_149: -2053597182
+      CastlevaniaEnemies_15: -377696122
+      CastlevaniaEnemies_150: 1491623881
+      CastlevaniaEnemies_151: -933139435
+      CastlevaniaEnemies_16: -1140832750
+      CastlevaniaEnemies_17: -1919334958
+      CastlevaniaEnemies_18: 738727292
+      CastlevaniaEnemies_19: 1218831621
+      CastlevaniaEnemies_2: -879624793
+      CastlevaniaEnemies_20: -1934299951
+      CastlevaniaEnemies_21: 1598958336
+      CastlevaniaEnemies_22: -940217322
+      CastlevaniaEnemies_23: 834522110
+      CastlevaniaEnemies_24: -1005929592
+      CastlevaniaEnemies_25: 709287188
+      CastlevaniaEnemies_26: -1553611341
+      CastlevaniaEnemies_27: 227054091
+      CastlevaniaEnemies_28: 837520343
+      CastlevaniaEnemies_29: 2062496090
+      CastlevaniaEnemies_3: 1701230744
+      CastlevaniaEnemies_30: 1639926334
+      CastlevaniaEnemies_31: -1701578492
+      CastlevaniaEnemies_32: -829031940
+      CastlevaniaEnemies_33: 1116233311
+      CastlevaniaEnemies_34: 1049223436
+      CastlevaniaEnemies_35: -1366904137
+      CastlevaniaEnemies_36: 493306129
+      CastlevaniaEnemies_37: 1090380291
+      CastlevaniaEnemies_38: -1983130288
+      CastlevaniaEnemies_39: -345193602
+      CastlevaniaEnemies_4: -391579342
+      CastlevaniaEnemies_40: -1101993423
+      CastlevaniaEnemies_41: -1924102267
+      CastlevaniaEnemies_42: 696029974
+      CastlevaniaEnemies_43: -1305383873
+      CastlevaniaEnemies_44: -1087234907
+      CastlevaniaEnemies_45: -1356007006
+      CastlevaniaEnemies_46: -1345078318
+      CastlevaniaEnemies_47: 458520224
+      CastlevaniaEnemies_48: -1730173332
+      CastlevaniaEnemies_49: -1491252956
+      CastlevaniaEnemies_5: 1262705911
+      CastlevaniaEnemies_50: -1850877303
+      CastlevaniaEnemies_51: -728991458
+      CastlevaniaEnemies_52: 1959507405
+      CastlevaniaEnemies_53: 95106868
+      CastlevaniaEnemies_54: 868359526
+      CastlevaniaEnemies_55: 1808707719
+      CastlevaniaEnemies_56: 2111160286
+      CastlevaniaEnemies_57: 459726498
+      CastlevaniaEnemies_58: -1215635133
+      CastlevaniaEnemies_59: -1304920618
+      CastlevaniaEnemies_6: 1708709277
+      CastlevaniaEnemies_60: 1404020824
+      CastlevaniaEnemies_61: -181264228
+      CastlevaniaEnemies_62: 949613449
+      CastlevaniaEnemies_63: -1226698814
+      CastlevaniaEnemies_64: -1456211002
+      CastlevaniaEnemies_65: 378786858
+      CastlevaniaEnemies_66: 1524600000
+      CastlevaniaEnemies_67: -2077025591
+      CastlevaniaEnemies_68: 1543943882
+      CastlevaniaEnemies_69: 791289045
+      CastlevaniaEnemies_7: -1436335614
+      CastlevaniaEnemies_70: -1116625046
+      CastlevaniaEnemies_71: -501271238
+      CastlevaniaEnemies_72: 571906099
+      CastlevaniaEnemies_73: -1858765976
+      CastlevaniaEnemies_74: -1658448724
+      CastlevaniaEnemies_75: 1432184996
+      CastlevaniaEnemies_76: -1966108190
+      CastlevaniaEnemies_77: 701866258
+      CastlevaniaEnemies_78: -1731308149
+      CastlevaniaEnemies_79: 418623384
+      CastlevaniaEnemies_8: -2073723418
+      CastlevaniaEnemies_80: 469422126
+      CastlevaniaEnemies_81: -1693343617
+      CastlevaniaEnemies_82: -1052212242
+      CastlevaniaEnemies_83: -1577573420
+      CastlevaniaEnemies_84: 2093975230
+      CastlevaniaEnemies_85: -261424134
+      CastlevaniaEnemies_86: 2074089092
+      CastlevaniaEnemies_87: 2093802218
+      CastlevaniaEnemies_88: -1516947852
+      CastlevaniaEnemies_89: 837114526
+      CastlevaniaEnemies_9: 947389522
+      CastlevaniaEnemies_90: -1312792555
+      CastlevaniaEnemies_91: -1089685698
+      CastlevaniaEnemies_92: 1983050154
+      CastlevaniaEnemies_93: 1639859541
+      CastlevaniaEnemies_94: 1837613927
+      CastlevaniaEnemies_95: 640109141
+      CastlevaniaEnemies_96: 101262418
+      CastlevaniaEnemies_97: -993953548
+      CastlevaniaEnemies_98: -1376596056
+      CastlevaniaEnemies_99: -2035100737
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
