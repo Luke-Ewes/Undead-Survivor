@@ -13,9 +13,11 @@ public class PickUpManager : MonoBehaviour
     private int KillsSinceLastDrop;
     private int kills;
     private int coins;
+    
     private UIManager uiManager;
 
     private List<PickUpObject> PossiblePickUps = new List<PickUpObject>();
+    
     private EnergyBallParent energyBall;
 
     private void Awake()
